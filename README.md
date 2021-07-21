@@ -1,4 +1,4 @@
-# Hello World
- My first repository
-
-Repository made for the Git/GitHub course from the youtube channel Curso em Vídeo
+# Olá, Mundo
+ Meu primeiro repositório
+ 
+ Repositório criado para o curso de Git/GitHub do canal "Curso em Video" do youtube.
